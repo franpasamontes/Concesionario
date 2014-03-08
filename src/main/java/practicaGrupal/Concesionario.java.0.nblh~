@@ -1,0 +1,44 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package practicaGrupal;
+import java.util.ArrayList;
+import java.util.Iterator;
+/**
+ *
+ * @author AdriS
+ */
+public class Concesionario {
+    public ArrayList<CocheConcesionario> cochesConcesionario;
+    public ArrayList<Proveedor> proveedores;
+    public ArrayList<Empleado> empleados;
+    public ArrayList<Exposicion> exposiciones;
+    public ArrayList<Comisionario> comisionarios;
+    public ArrayList<Cliente> clientes;
+    public String nombre;
+    public Concesionario(String nom){
+        this.nombre = nom;
+        this.cochesConcesionario = new ArrayList<CocheConcesionario>();
+        this.proveedores = new ArrayList<Proveedor>();
+        this.empleados = new ArrayList<Empleado>();
+        this.exposiciones = new ArrayList<Exposicion>();
+        this.comisionarios = new ArrayList<Comisionario>();
+        this.clientes = new ArrayList<Cliente>();
+    }
+    public Concesionario(){
+        this(null);
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+    
+    public void consultarCoches(){
+        Iterator<CochesConcesionario> it = new Iterator<CochesConcesionario>();
+    }
+}

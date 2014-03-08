@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.0.2" timestamp="2014-02-11T18:20:33.648">
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\AccesoAProveedoresIG.java">
+<violation beginline="117" endline="117" begincolumn="81" endcolumn="83" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="AccesoAProveedoresIG" method="jbGestionProveedoresActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="129" endline="129" begincolumn="82" endcolumn="84" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="AccesoAProveedoresIG" method="jbGestionListasCochesActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="141" endline="141" begincolumn="84" endcolumn="86" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="AccesoAProveedoresIG" method="jbComprarCocheProveedorActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\AltaClienteIG.java">
+<violation beginline="143" endline="143" begincolumn="70" endcolumn="72" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="AltaClienteIG" method="jbAniadirActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="171" endline="171" begincolumn="74" endcolumn="76" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="AltaClienteIG" method="jbVaciarDatosActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\AltaCocheProveedorIG.java">
+<violation beginline="139" endline="139" begincolumn="70" endcolumn="72" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="AltaCocheProveedorIG" method="jbAniadirActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="168" endline="168" begincolumn="74" endcolumn="76" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="AltaCocheProveedorIG" method="jbVaciarDatosActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\AltaEmpleadoIG.java">
+<violation beginline="176" endline="176" begincolumn="70" endcolumn="72" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="AltaEmpleadoIG" method="jbAniadirActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="240" endline="240" begincolumn="74" endcolumn="76" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="AltaEmpleadoIG" method="jbVaciarDatosActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="249" endline="249" begincolumn="76" endcolumn="78" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="AltaEmpleadoIG" method="jcbTipoEmpleadoActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\AltaExposicionIG.java">
+<violation beginline="128" endline="128" begincolumn="70" endcolumn="72" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="AltaExposicionIG" method="jbAniadirActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="152" endline="152" begincolumn="74" endcolumn="76" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="AltaExposicionIG" method="jbVaciarDatosActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\AltaProveedorIG.java">
+<violation beginline="146" endline="146" begincolumn="70" endcolumn="72" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="AltaProveedorIG" method="jbAniadirActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="171" endline="171" begincolumn="74" endcolumn="76" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="AltaProveedorIG" method="jbVaciarDatosActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\CancelarReservaIG.java">
+<violation beginline="109" endline="109" begincolumn="17" endcolumn="25" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="CancelarReservaIG" method="buscar" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="109" endline="109" begincolumn="32" endcolumn="55" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="CancelarReservaIG" method="buscar" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="110" endline="110" begincolumn="18" endcolumn="90" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="CancelarReservaIG" method="buscar" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="111" endline="111" begincolumn="25" endcolumn="99" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="CancelarReservaIG" method="buscar" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="112" endline="112" begincolumn="25" endcolumn="105" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="CancelarReservaIG" method="buscar" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="113" endline="113" begincolumn="25" endcolumn="111" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="CancelarReservaIG" method="buscar" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="114" endline="114" begincolumn="25" endcolumn="94" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="CancelarReservaIG" method="buscar" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="115" endline="115" begincolumn="25" endcolumn="96" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="CancelarReservaIG" method="buscar" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="116" endline="116" begincolumn="25" endcolumn="99" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="CancelarReservaIG" method="buscar" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="155" endline="155" begincolumn="31" endcolumn="65" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="CancelarReservaIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.table.DefaultTableModel' due to existing import 'javax.swing.table.DefaultTableModel'
+</violation>
+<violation beginline="168" endline="168" begincolumn="33" endcolumn="67" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="CancelarReservaIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.table.DefaultTableModel' due to existing import 'javax.swing.table.DefaultTableModel'
+</violation>
+<violation beginline="217" endline="217" begincolumn="65" endcolumn="67" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="CancelarReservaIG" method="jButton1ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="220" endline="220" begincolumn="13" endcolumn="40" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="CancelarReservaIG" method="jButton1ActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="220" endline="220" begincolumn="47" endcolumn="74" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="CancelarReservaIG" method="jButton1ActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="225" endline="225" begincolumn="13" endcolumn="38" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="CancelarReservaIG" method="jButton1ActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="225" endline="225" begincolumn="45" endcolumn="70" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="CancelarReservaIG" method="jButton1ActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\Cliente.java">
+<violation beginline="46" endline="50" begincolumn="50" endcolumn="9" rule="EmptyIfStmt" ruleset="Empty Code" package="practicaGrupal" class="Cliente" method="CancelarReserva" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/empty.html#EmptyIfStmt" priority="3">
+Avoid empty if statements
+</violation>
+<violation beginline="62" endline="66" begincolumn="50" endcolumn="9" rule="EmptyIfStmt" ruleset="Empty Code" package="practicaGrupal" class="Cliente" method="ComprarCocheReservado" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/empty.html#EmptyIfStmt" priority="3">
+Avoid empty if statements
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\ComprarCocheAProveedorIG.java">
+<violation beginline="162" endline="162" begincolumn="75" endcolumn="77" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ComprarCocheAProveedorIG" method="jbComprarCocheActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\ConcesionarioIG.java">
+<violation beginline="52" endline="52" begincolumn="36" endcolumn="54" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="53" endline="53" begincolumn="36" endcolumn="54" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="54" endline="54" begincolumn="39" endcolumn="57" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="55" endline="55" begincolumn="39" endcolumn="57" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="56" endline="56" begincolumn="35" endcolumn="53" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="57" endline="57" begincolumn="30" endcolumn="48" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="59" endline="59" begincolumn="27" endcolumn="45" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="61" endline="61" begincolumn="29" endcolumn="47" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="62" endline="62" begincolumn="31" endcolumn="49" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="63" endline="63" begincolumn="33" endcolumn="51" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="65" endline="65" begincolumn="35" endcolumn="53" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="66" endline="66" begincolumn="30" endcolumn="48" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="67" endline="67" begincolumn="46" endcolumn="64" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="307" endline="307" begincolumn="79" endcolumn="96" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'java.awt.Component' due to existing import 'java.awt.Component'
+</violation>
+<violation beginline="428" endline="428" begincolumn="81" endcolumn="83" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ConcesionarioIG" method="jbGestionarEmpleadosActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="440" endline="440" begincolumn="70" endcolumn="72" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ConcesionarioIG" method="jmiCargarActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="582" endline="582" begincolumn="71" endcolumn="73" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ConcesionarioIG" method="jmiGuardarActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="703" endline="703" begincolumn="81" endcolumn="83" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ConcesionarioIG" method="jbAccesoAProveedoresActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="716" endline="716" begincolumn="84" endcolumn="86" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ConcesionarioIG" method="jbGestionarExposicionesActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="729" endline="729" begincolumn="80" endcolumn="82" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ConcesionarioIG" method="jbGestionarClientesActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="741" endline="741" begincolumn="74" endcolumn="76" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ConcesionarioIG" method="jbVenderCocheActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="759" endline="759" begincolumn="71" endcolumn="73" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ConcesionarioIG" method="jbRepararCocheActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="770" endline="770" begincolumn="76" endcolumn="78" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ConcesionarioIG" method="jbPonerEnReparacionActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="779" endline="779" begincolumn="84" endcolumn="86" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ConcesionarioIG" method="jbMoverCocheAExposicionActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="795" endline="795" begincolumn="71" endcolumn="73" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ConcesionarioIG" method="jbPonerEnVentaActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="804" endline="804" begincolumn="91" endcolumn="93" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ConcesionarioIG" method="jbGestionarCochesConcesionarioActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="816" endline="816" begincolumn="76" endcolumn="78" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ConcesionarioIG" method="jbReservarCocheActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="827" endline="827" begincolumn="78" endcolumn="80" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ConcesionarioIG" method="jbCancelarReservaActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="840" endline="840" begincolumn="72" endcolumn="74" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ConcesionarioIG" method="jbConsultasActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="848" endline="848" begincolumn="63" endcolumn="65" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ConcesionarioIG" method="formWindowClosing" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="860" endline="860" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ConcesionarioIG" method="jmiSalirActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="864" endline="864" begincolumn="77" endcolumn="79" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ConcesionarioIG" method="jmiIniciarSesionActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="996" endline="996" begincolumn="76" endcolumn="78" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ConcesionarioIG" method="jmiCerrarSesionActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="1017" endline="1017" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ConcesionarioIG" method="jmiAyudaActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="1065" endline="1065" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="1066" endline="1066" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="1067" endline="1067" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="1068" endline="1068" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="1069" endline="1069" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="1070" endline="1070" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="1071" endline="1071" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="1072" endline="1072" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="1073" endline="1073" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="1074" endline="1074" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="1075" endline="1075" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="1076" endline="1076" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="1077" endline="1077" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConcesionarioIG" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\ConsultaClienteComproCocheIG.java">
+<violation beginline="145" endline="145" begincolumn="17" endcolumn="25" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaClienteComproCocheIG" method="jtCochesVendidosMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="145" endline="145" begincolumn="32" endcolumn="55" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaClienteComproCocheIG" method="jtCochesVendidosMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="146" endline="146" begincolumn="21" endcolumn="29" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaClienteComproCocheIG" method="jtCochesVendidosMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="146" endline="146" begincolumn="36" endcolumn="87" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaClienteComproCocheIG" method="jtCochesVendidosMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="147" endline="147" begincolumn="22" endcolumn="159" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaClienteComproCocheIG" method="jtCochesVendidosMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="148" endline="148" begincolumn="29" endcolumn="168" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaClienteComproCocheIG" method="jtCochesVendidosMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="149" endline="149" begincolumn="29" endcolumn="174" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaClienteComproCocheIG" method="jtCochesVendidosMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="150" endline="150" begincolumn="29" endcolumn="180" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaClienteComproCocheIG" method="jtCochesVendidosMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="151" endline="151" begincolumn="29" endcolumn="163" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaClienteComproCocheIG" method="jtCochesVendidosMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="152" endline="152" begincolumn="29" endcolumn="165" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaClienteComproCocheIG" method="jtCochesVendidosMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="153" endline="153" begincolumn="29" endcolumn="168" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaClienteComproCocheIG" method="jtCochesVendidosMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\ConsultaCochesEnReparacionIG.java">
+<violation beginline="139" endline="139" begincolumn="18" endcolumn="77" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaCochesEnReparacionIG" method="cargarCochesEnReparacion" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\ConsultaCochesEnVentaIG.java">
+<violation beginline="133" endline="133" begincolumn="18" endcolumn="75" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaCochesEnVentaIG" method="cargarCochesEnVenta" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\ConsultaCochesReservadosIG.java">
+<violation beginline="138" endline="138" begincolumn="18" endcolumn="76" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaCochesReservadosIG" method="cargarCochesReservados" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\ConsultaCochesVendidosComisionarioIG.java">
+<violation beginline="100" endline="100" begincolumn="37" endcolumn="71" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConsultaCochesVendidosComisionarioIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.table.DefaultTableModel' due to existing import 'javax.swing.table.DefaultTableModel'
+</violation>
+<violation beginline="118" endline="118" begincolumn="31" endcolumn="65" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConsultaCochesVendidosComisionarioIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.table.DefaultTableModel' due to existing import 'javax.swing.table.DefaultTableModel'
+</violation>
+<violation beginline="161" endline="161" begincolumn="67" endcolumn="69" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ConsultaCochesVendidosComisionarioIG" method="jtComisionarioMouseClicked" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="164" endline="164" begincolumn="13" endcolumn="44" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaCochesVendidosComisionarioIG" method="jtComisionarioMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="164" endline="164" begincolumn="51" endcolumn="82" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaCochesVendidosComisionarioIG" method="jtComisionarioMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\ConsultaExposicionEstaUnCocheIG.java">
+<violation beginline="88" endline="88" begincolumn="31" endcolumn="65" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConsultaExposicionEstaUnCocheIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.table.DefaultTableModel' due to existing import 'javax.swing.table.DefaultTableModel'
+</violation>
+<violation beginline="106" endline="106" begincolumn="29" endcolumn="63" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ConsultaExposicionEstaUnCocheIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.table.DefaultTableModel' due to existing import 'javax.swing.table.DefaultTableModel'
+</violation>
+<violation beginline="143" endline="143" begincolumn="61" endcolumn="63" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ConsultaExposicionEstaUnCocheIG" method="jtCochesMouseClicked" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="150" endline="150" begincolumn="13" endcolumn="39" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaExposicionEstaUnCocheIG" method="jtCochesMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="150" endline="150" begincolumn="46" endcolumn="72" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaExposicionEstaUnCocheIG" method="jtCochesMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="156" endline="156" begincolumn="17" endcolumn="25" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaExposicionEstaUnCocheIG" method="jtCochesMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="156" endline="156" begincolumn="32" endcolumn="51" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaExposicionEstaUnCocheIG" method="jtCochesMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="157" endline="157" begincolumn="21" endcolumn="29" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaExposicionEstaUnCocheIG" method="jtCochesMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="157" endline="157" begincolumn="36" endcolumn="78" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaExposicionEstaUnCocheIG" method="jtCochesMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="158" endline="158" begincolumn="22" endcolumn="135" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaExposicionEstaUnCocheIG" method="jtCochesMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="159" endline="159" begincolumn="29" endcolumn="144" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaExposicionEstaUnCocheIG" method="jtCochesMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="160" endline="160" begincolumn="29" endcolumn="150" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaExposicionEstaUnCocheIG" method="jtCochesMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="161" endline="161" begincolumn="29" endcolumn="156" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaExposicionEstaUnCocheIG" method="jtCochesMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="162" endline="162" begincolumn="29" endcolumn="139" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaExposicionEstaUnCocheIG" method="jtCochesMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="163" endline="163" begincolumn="29" endcolumn="141" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaExposicionEstaUnCocheIG" method="jtCochesMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="164" endline="164" begincolumn="29" endcolumn="144" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ConsultaExposicionEstaUnCocheIG" method="jtCochesMouseClicked" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\Empleado.java">
+<violation beginline="28" endline="28" begincolumn="25" endcolumn="35" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="Empleado" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="30" endline="30" begincolumn="14" endcolumn="54" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="Empleado" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="30" endline="30" begincolumn="61" endcolumn="101" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="Empleado" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\GestionDeClientesIG.java">
+<violation beginline="121" endline="121" begincolumn="72" endcolumn="74" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="GestionDeClientesIG" method="jbDarDeAltaActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="136" endline="136" begincolumn="72" endcolumn="74" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="GestionDeClientesIG" method="jbDarDeBajaActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="139" endline="139" begincolumn="17" endcolumn="49" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="GestionDeClientesIG" method="jbDarDeBajaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="140" endline="140" begincolumn="21" endcolumn="53" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="GestionDeClientesIG" method="jbDarDeBajaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="144" endline="144" begincolumn="14" endcolumn="40" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="GestionDeClientesIG" method="jbDarDeBajaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="145" endline="145" begincolumn="21" endcolumn="74" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="GestionDeClientesIG" method="jbDarDeBajaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="146" endline="146" begincolumn="21" endcolumn="75" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="GestionDeClientesIG" method="jbDarDeBajaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="152" endline="152" begincolumn="77" endcolumn="79" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="GestionDeClientesIG" method="jbModificarDatosActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="156" endline="156" begincolumn="17" endcolumn="49" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="GestionDeClientesIG" method="jbModificarDatosActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="157" endline="157" begincolumn="21" endcolumn="53" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="GestionDeClientesIG" method="jbModificarDatosActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\GestionDeCochesDeProveedoresIG.java">
+<violation beginline="182" endline="182" begincolumn="72" endcolumn="74" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="GestionDeCochesDeProveedoresIG" method="jbDarDeAltaActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="197" endline="197" begincolumn="72" endcolumn="74" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="GestionDeCochesDeProveedoresIG" method="jbDarDeBajaActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="211" endline="211" begincolumn="77" endcolumn="79" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="GestionDeCochesDeProveedoresIG" method="jbModificarDatosActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\GestionDeExposicionesIG.java">
+<violation beginline="117" endline="117" begincolumn="72" endcolumn="74" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="GestionDeExposicionesIG" method="jbDarDeAltaActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="131" endline="131" begincolumn="72" endcolumn="74" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="GestionDeExposicionesIG" method="jbDarDeBajaActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="134" endline="134" begincolumn="17" endcolumn="53" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="GestionDeExposicionesIG" method="jbDarDeBajaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="135" endline="135" begincolumn="18" endcolumn="54" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="GestionDeExposicionesIG" method="jbDarDeBajaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="146" endline="146" begincolumn="77" endcolumn="79" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="GestionDeExposicionesIG" method="jbModificarDatosActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="150" endline="150" begincolumn="17" endcolumn="53" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="GestionDeExposicionesIG" method="jbModificarDatosActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="151" endline="151" begincolumn="21" endcolumn="57" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="GestionDeExposicionesIG" method="jbModificarDatosActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\GestionDeProveedoresIG.java">
+<violation beginline="119" endline="119" begincolumn="72" endcolumn="74" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="GestionDeProveedoresIG" method="jbDarDeAltaActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="133" endline="133" begincolumn="72" endcolumn="74" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="GestionDeProveedoresIG" method="jbDarDeBajaActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="136" endline="136" begincolumn="17" endcolumn="52" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="GestionDeProveedoresIG" method="jbDarDeBajaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="137" endline="137" begincolumn="18" endcolumn="53" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="GestionDeProveedoresIG" method="jbDarDeBajaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="148" endline="148" begincolumn="77" endcolumn="79" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="GestionDeProveedoresIG" method="jbModificarDatosActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="152" endline="152" begincolumn="17" endcolumn="52" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="GestionDeProveedoresIG" method="jbModificarDatosActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="153" endline="153" begincolumn="18" endcolumn="53" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="GestionDeProveedoresIG" method="jbModificarDatosActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\GestionarCochesConcesionarioIG.java">
+<violation beginline="26" endline="26" begincolumn="1" endcolumn="31" rule="UnusedImports" ruleset="Import Statements" package="practicaGrupal" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.swing.JOptionPane'
+</violation>
+<violation beginline="109" endline="109" begincolumn="77" endcolumn="79" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="GestionarCochesConcesionarioIG" method="jbModificarDatosActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="202" endline="202" begincolumn="18" endcolumn="75" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="GestionarCochesConcesionarioIG" method="cargarCochesDeConcesionario" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="203" endline="203" begincolumn="25" endcolumn="84" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="GestionarCochesConcesionarioIG" method="cargarCochesDeConcesionario" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="222" endline="222" begincolumn="18" endcolumn="75" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="GestionarCochesConcesionarioIG" method="posicionRealCoche" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="223" endline="223" begincolumn="25" endcolumn="84" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="GestionarCochesConcesionarioIG" method="posicionRealCoche" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\GestionarEmpleadosIG.java">
+<violation beginline="24" endline="24" begincolumn="1" endcolumn="31" rule="UnusedImports" ruleset="Import Statements" package="practicaGrupal" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.swing.JOptionPane'
+</violation>
+<violation beginline="121" endline="121" begincolumn="72" endcolumn="74" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="GestionarEmpleadosIG" method="jbDarDeAltaActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="135" endline="135" begincolumn="72" endcolumn="74" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="GestionarEmpleadosIG" method="jbDarDeBajaActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="138" endline="138" begincolumn="17" endcolumn="45" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="GestionarEmpleadosIG" method="jbDarDeBajaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="138" endline="138" begincolumn="52" endcolumn="80" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="GestionarEmpleadosIG" method="jbDarDeBajaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="152" endline="152" begincolumn="77" endcolumn="79" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="GestionarEmpleadosIG" method="jbModificarDatosActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="156" endline="156" begincolumn="17" endcolumn="45" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="GestionarEmpleadosIG" method="jbModificarDatosActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="156" endline="156" begincolumn="52" endcolumn="80" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="GestionarEmpleadosIG" method="jbModificarDatosActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\MenuConsultas.java">
+<violation beginline="149" endline="149" begincolumn="81" endcolumn="83" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="MenuConsultas" method="jbMostrarCochesVentaActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="159" endline="159" begincolumn="86" endcolumn="88" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="MenuConsultas" method="jbMostrarCochesReparacionActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="170" endline="170" begincolumn="86" endcolumn="88" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="MenuConsultas" method="jbMostrarCochesReservadosActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="180" endline="180" begincolumn="84" endcolumn="86" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="MenuConsultas" method="jbMostrarCochesVendidosActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="188" endline="188" begincolumn="92" endcolumn="94" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="MenuConsultas" method="jbMostrarClientesCocheReservadoActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="197" endline="197" begincolumn="92" endcolumn="94" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="MenuConsultas" method="jbMostrarDatosClienteSegunCocheActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="207" endline="207" begincolumn="89" endcolumn="91" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="MenuConsultas" method="jbMostrarExposicionDeUnCocheActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\ModificarClienteIG.java">
+<violation beginline="24" endline="24" begincolumn="1" endcolumn="31" rule="UnusedImports" ruleset="Import Statements" package="practicaGrupal" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.swing.JOptionPane'
+</violation>
+<violation beginline="130" endline="130" begincolumn="72" endcolumn="74" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ModificarClienteIG" method="jbModificarActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\ModificarCocheConcesionarioIG.java">
+<violation beginline="138" endline="138" begincolumn="72" endcolumn="74" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ModificarCocheConcesionarioIG" method="jbModificarActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="173" endline="173" begincolumn="74" endcolumn="76" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ModificarCocheConcesionarioIG" method="jbVaciarDatosActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\ModificarCocheProveedorIG.java">
+<violation beginline="143" endline="143" begincolumn="74" endcolumn="76" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ModificarCocheProveedorIG" method="jbVaciarDatosActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="150" endline="150" begincolumn="72" endcolumn="74" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ModificarCocheProveedorIG" method="jbModificarActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\ModificarEmpleadoIG.java">
+<violation beginline="167" endline="167" begincolumn="76" endcolumn="78" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ModificarEmpleadoIG" method="jcbTipoEmpleadoActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="170" endline="170" begincolumn="72" endcolumn="74" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ModificarEmpleadoIG" method="jbModificarActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\ModificarExposicionIG.java">
+<violation beginline="116" endline="116" begincolumn="72" endcolumn="74" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ModificarExposicionIG" method="jbModificarActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\ModificarProveedorIG.java">
+<violation beginline="134" endline="134" begincolumn="72" endcolumn="74" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ModificarProveedorIG" method="jbModificarActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\MoverCocheAExposicionIG.java">
+<violation beginline="148" endline="148" begincolumn="71" endcolumn="73" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="MoverCocheAExposicionIG" method="jtExposicionesMouseClicked" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="153" endline="153" begincolumn="65" endcolumn="67" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="MoverCocheAExposicionIG" method="jtCochesMouseClicked" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="158" endline="158" begincolumn="73" endcolumn="75" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="MoverCocheAExposicionIG" method="jbMoverCocheActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="162" endline="162" begincolumn="17" endcolumn="55" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="jbMoverCocheActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="163" endline="163" begincolumn="21" endcolumn="59" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="jbMoverCocheActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="166" endline="166" begincolumn="17" endcolumn="48" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="jbMoverCocheActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="167" endline="167" begincolumn="21" endcolumn="52" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="jbMoverCocheActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="269" endline="269" begincolumn="22" endcolumn="83" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="cargarCoches" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="271" endline="271" begincolumn="29" endcolumn="59" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="cargarCoches" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="272" endline="272" begincolumn="33" endcolumn="86" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="cargarCoches" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="273" endline="273" begincolumn="34" endcolumn="145" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="cargarCoches" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="274" endline="274" begincolumn="41" endcolumn="154" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="cargarCoches" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="275" endline="275" begincolumn="41" endcolumn="160" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="cargarCoches" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="276" endline="276" begincolumn="41" endcolumn="166" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="cargarCoches" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="277" endline="277" begincolumn="41" endcolumn="149" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="cargarCoches" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="278" endline="278" begincolumn="41" endcolumn="151" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="cargarCoches" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="279" endline="279" begincolumn="41" endcolumn="154" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="cargarCoches" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="317" endline="317" begincolumn="18" endcolumn="79" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="posicionRealCoche" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="319" endline="319" begincolumn="25" endcolumn="55" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="posicionRealCoche" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="320" endline="320" begincolumn="29" endcolumn="82" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="posicionRealCoche" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="321" endline="321" begincolumn="30" endcolumn="141" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="posicionRealCoche" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="322" endline="322" begincolumn="37" endcolumn="150" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="posicionRealCoche" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="323" endline="323" begincolumn="37" endcolumn="156" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="posicionRealCoche" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="324" endline="324" begincolumn="37" endcolumn="162" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="posicionRealCoche" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="325" endline="325" begincolumn="37" endcolumn="145" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="posicionRealCoche" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="326" endline="326" begincolumn="37" endcolumn="147" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="posicionRealCoche" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="327" endline="327" begincolumn="37" endcolumn="150" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="posicionRealCoche" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="357" endline="357" begincolumn="17" endcolumn="55" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="actualizarBoton" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="358" endline="358" begincolumn="21" endcolumn="59" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="actualizarBoton" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="361" endline="361" begincolumn="17" endcolumn="48" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="actualizarBoton" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="362" endline="362" begincolumn="21" endcolumn="52" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="actualizarBoton" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="365" endline="365" begincolumn="14" endcolumn="51" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="actualizarBoton" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="365" endline="365" begincolumn="58" endcolumn="88" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="MoverCocheAExposicionIG" method="actualizarBoton" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\PonerReparacionIG.java">
+<violation beginline="90" endline="90" begincolumn="31" endcolumn="65" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="PonerReparacionIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.table.DefaultTableModel' due to existing import 'javax.swing.table.DefaultTableModel'
+</violation>
+<violation beginline="137" endline="137" begincolumn="65" endcolumn="67" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="PonerReparacionIG" method="jButton1ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="140" endline="140" begincolumn="13" endcolumn="38" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="PonerReparacionIG" method="jButton1ActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="140" endline="140" begincolumn="45" endcolumn="70" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="PonerReparacionIG" method="jButton1ActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\PonerVentaIG.java">
+<violation beginline="89" endline="89" begincolumn="31" endcolumn="65" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="PonerVentaIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.table.DefaultTableModel' due to existing import 'javax.swing.table.DefaultTableModel'
+</violation>
+<violation beginline="136" endline="136" begincolumn="65" endcolumn="67" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="PonerVentaIG" method="jButton1ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="139" endline="139" begincolumn="13" endcolumn="38" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="PonerVentaIG" method="jButton1ActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="139" endline="139" begincolumn="45" endcolumn="70" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="PonerVentaIG" method="jButton1ActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\RellenarPonerVentaIG.java">
+<violation beginline="106" endline="106" begincolumn="65" endcolumn="67" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="RellenarPonerVentaIG" method="jButton1ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\ReparacionIG.java">
+<violation beginline="177" endline="177" begincolumn="33" endcolumn="64" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ReparacionIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.DefaultComboBoxModel' due to existing import 'javax.swing.DefaultComboBoxModel'
+</violation>
+<violation beginline="179" endline="179" begincolumn="33" endcolumn="64" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ReparacionIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.DefaultComboBoxModel' due to existing import 'javax.swing.DefaultComboBoxModel'
+</violation>
+<violation beginline="186" endline="186" begincolumn="33" endcolumn="64" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ReparacionIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.DefaultComboBoxModel' due to existing import 'javax.swing.DefaultComboBoxModel'
+</violation>
+<violation beginline="247" endline="247" begincolumn="67" endcolumn="69" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ReparacionIG" method="jComboBox2ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="251" endline="251" begincolumn="67" endcolumn="69" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ReparacionIG" method="jComboBox3ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="272" endline="272" begincolumn="65" endcolumn="67" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ReparacionIG" method="jButton1ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="276" endline="276" begincolumn="18" endcolumn="79" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ReparacionIG" method="jButton1ActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="278" endline="278" begincolumn="18" endcolumn="76" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ReparacionIG" method="jButton1ActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\RepararCocheIG.java">
+<violation beginline="91" endline="91" begincolumn="30" endcolumn="64" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="RepararCocheIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.table.DefaultTableModel' due to existing import 'javax.swing.table.DefaultTableModel'
+</violation>
+<violation beginline="138" endline="138" begincolumn="65" endcolumn="67" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="RepararCocheIG" method="jButton1ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="143" endline="143" begincolumn="13" endcolumn="37" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="RepararCocheIG" method="jButton1ActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="143" endline="143" begincolumn="44" endcolumn="68" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="RepararCocheIG" method="jButton1ActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\ReservarIG.java">
+<violation beginline="127" endline="127" begincolumn="33" endcolumn="67" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ReservarIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.table.DefaultTableModel' due to existing import 'javax.swing.table.DefaultTableModel'
+</violation>
+<violation beginline="140" endline="140" begincolumn="31" endcolumn="65" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="practicaGrupal" class="ReservarIG" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.table.DefaultTableModel' due to existing import 'javax.swing.table.DefaultTableModel'
+</violation>
+<violation beginline="191" endline="191" begincolumn="65" endcolumn="67" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="ReservarIG" method="jButton1ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="194" endline="194" begincolumn="13" endcolumn="40" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ReservarIG" method="jButton1ActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="194" endline="194" begincolumn="47" endcolumn="74" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ReservarIG" method="jButton1ActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="199" endline="199" begincolumn="13" endcolumn="38" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ReservarIG" method="jButton1ActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="199" endline="199" begincolumn="45" endcolumn="70" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="ReservarIG" method="jButton1ActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="C:\Users\Ruben\Concesionario\src\main\java\practicaGrupal\VentaCocheIG.java">
+<violation beginline="237" endline="237" begincolumn="77" endcolumn="79" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="247" endline="247" begincolumn="17" endcolumn="51" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="248" endline="248" begincolumn="21" endcolumn="55" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="251" endline="251" begincolumn="17" endcolumn="50" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="252" endline="252" begincolumn="21" endcolumn="54" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="255" endline="255" begincolumn="17" endcolumn="48" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="256" endline="256" begincolumn="21" endcolumn="52" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="259" endline="259" begincolumn="17" endcolumn="50" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="260" endline="260" begincolumn="21" endcolumn="54" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="273" endline="273" begincolumn="21" endcolumn="29" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="273" endline="273" begincolumn="36" endcolumn="59" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="274" endline="274" begincolumn="22" endcolumn="143" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="275" endline="275" begincolumn="29" endcolumn="152" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="276" endline="276" begincolumn="29" endcolumn="158" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="277" endline="277" begincolumn="29" endcolumn="164" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="278" endline="278" begincolumn="29" endcolumn="147" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="279" endline="279" begincolumn="29" endcolumn="149" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="280" endline="280" begincolumn="29" endcolumn="152" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="288" endline="288" begincolumn="21" endcolumn="30" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="288" endline="288" begincolumn="37" endcolumn="62" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="289" endline="289" begincolumn="25" endcolumn="34" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="289" endline="289" begincolumn="41" endcolumn="89" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="290" endline="290" begincolumn="26" endcolumn="141" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="291" endline="291" begincolumn="33" endcolumn="150" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="292" endline="292" begincolumn="33" endcolumn="156" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="293" endline="293" begincolumn="33" endcolumn="162" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="294" endline="294" begincolumn="33" endcolumn="145" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="295" endline="295" begincolumn="33" endcolumn="147" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="296" endline="296" begincolumn="33" endcolumn="150" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="326" endline="326" begincolumn="25" endcolumn="34" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="326" endline="326" begincolumn="41" endcolumn="66" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="327" endline="327" begincolumn="29" endcolumn="38" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="327" endline="327" begincolumn="45" endcolumn="93" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="328" endline="328" begincolumn="30" endcolumn="156" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="329" endline="329" begincolumn="37" endcolumn="165" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="330" endline="330" begincolumn="37" endcolumn="171" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="331" endline="331" begincolumn="37" endcolumn="177" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="332" endline="332" begincolumn="37" endcolumn="160" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="333" endline="333" begincolumn="37" endcolumn="162" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="334" endline="334" begincolumn="37" endcolumn="165" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="jbConfirmarVentaActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="368" endline="368" begincolumn="67" endcolumn="69" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="VentaCocheIG" method="jtVendedorMouseClicked" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="373" endline="373" begincolumn="65" endcolumn="67" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="VentaCocheIG" method="jtCochesMouseClicked" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="378" endline="378" begincolumn="66" endcolumn="68" rule="UnusedFormalParameter" ruleset="Unused Code" package="practicaGrupal" class="VentaCocheIG" method="jtCochesRMouseClicked" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="451" endline="452" begincolumn="81" endcolumn="13" rule="EmptyIfStmt" ruleset="Empty Code" package="practicaGrupal" class="VentaCocheIG" method="cargarVendedores" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/empty.html#EmptyIfStmt" priority="3">
+Avoid empty if statements
+</violation>
+<violation beginline="545" endline="545" begincolumn="42" endcolumn="74" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="posicionRealVendedor" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="548" endline="549" begincolumn="81" endcolumn="13" rule="EmptyIfStmt" ruleset="Empty Code" package="practicaGrupal" class="VentaCocheIG" method="posicionRealVendedor" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/empty.html#EmptyIfStmt" priority="3">
+Avoid empty if statements
+</violation>
+<violation beginline="578" endline="578" begincolumn="17" endcolumn="51" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="actualizarBoton" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="579" endline="579" begincolumn="21" endcolumn="55" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="actualizarBoton" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="582" endline="582" begincolumn="17" endcolumn="50" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="actualizarBoton" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="583" endline="583" begincolumn="21" endcolumn="54" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="actualizarBoton" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="586" endline="586" begincolumn="17" endcolumn="48" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="actualizarBoton" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="587" endline="587" begincolumn="21" endcolumn="52" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="actualizarBoton" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="590" endline="590" begincolumn="17" endcolumn="50" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="actualizarBoton" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="591" endline="591" begincolumn="21" endcolumn="54" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="actualizarBoton" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="595" endline="595" begincolumn="14" endcolumn="42" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="actualizarBoton" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="596" endline="596" begincolumn="21" endcolumn="53" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="actualizarBoton" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="597" endline="597" begincolumn="22" endcolumn="52" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="actualizarBoton" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="597" endline="597" begincolumn="59" endcolumn="91" rule="UselessParentheses" ruleset="Unnecessary" package="practicaGrupal" class="VentaCocheIG" method="actualizarBoton" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+</pmd>
